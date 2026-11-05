@@ -1,0 +1,15 @@
+*.exe
+*.out
+*.o
+*.obj
+bin/
+
+.vscode/
+.idea/
+*.swp
+
+[Dd]esktop.ini
+.DS_Store
+
+dataset/*.ubyte
+!dataset/.gitkeep
